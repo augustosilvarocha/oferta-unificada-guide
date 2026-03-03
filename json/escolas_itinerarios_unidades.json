@@ -1,0 +1,802 @@
+{
+  "14529": [
+    {
+      "itinerary_id": 181,
+      "curricular_units": [
+        410
+      ]
+    }
+  ],
+  "14530": [
+    {
+      "itinerary_id": 183,
+      "curricular_units": [
+        413
+      ]
+    }
+  ],
+  "14531": [
+    {
+      "itinerary_id": 184,
+      "curricular_units": [
+        414
+      ]
+    }
+  ],
+  "14532": [
+    {
+      "itinerary_id": 185,
+      "curricular_units": [
+        415
+      ]
+    }
+  ],
+  "14533": [
+    {
+      "itinerary_id": 186,
+      "curricular_units": [
+        416
+      ]
+    }
+  ],
+  "14534": [
+    {
+      "itinerary_id": 187,
+      "curricular_units": [
+        417
+      ]
+    }
+  ],
+  "14535": [
+    {
+      "itinerary_id": 188,
+      "curricular_units": [
+        418
+      ]
+    }
+  ],
+  "14536": [
+    {
+      "itinerary_id": 189,
+      "curricular_units": [
+        419
+      ]
+    }
+  ],
+  "14537": [
+    {
+      "itinerary_id": 190,
+      "curricular_units": [
+        420
+      ]
+    }
+  ],
+  "14538": [
+    {
+      "itinerary_id": 191,
+      "curricular_units": [
+        421
+      ]
+    }
+  ],
+  "14539": [
+    {
+      "itinerary_id": 192,
+      "curricular_units": [
+        422
+      ]
+    }
+  ],
+  "14540": [
+    {
+      "itinerary_id": 193,
+      "curricular_units": [
+        423
+      ]
+    }
+  ],
+  "14541": [
+    {
+      "itinerary_id": 194,
+      "curricular_units": [
+        424
+      ]
+    }
+  ],
+  "14542": [
+    {
+      "itinerary_id": 195,
+      "curricular_units": [
+        425
+      ]
+    }
+  ],
+  "14543": [
+    {
+      "itinerary_id": 196,
+      "curricular_units": [
+        426
+      ]
+    }
+  ],
+  "14544": [
+    {
+      "itinerary_id": 197,
+      "curricular_units": [
+        427
+      ]
+    }
+  ],
+  "14545": [
+    {
+      "itinerary_id": 198,
+      "curricular_units": [
+        428
+      ]
+    }
+  ],
+  "14546": [
+    {
+      "itinerary_id": 199,
+      "curricular_units": [
+        429
+      ]
+    }
+  ],
+  "14547": [
+    {
+      "itinerary_id": 200,
+      "curricular_units": [
+        430
+      ]
+    }
+  ],
+  "14548": [
+    {
+      "itinerary_id": 201,
+      "curricular_units": [
+        431
+      ]
+    }
+  ],
+  "14549": [
+    {
+      "itinerary_id": 202,
+      "curricular_units": [
+        432
+      ]
+    }
+  ],
+  "14550": [
+    {
+      "itinerary_id": 203,
+      "curricular_units": [
+        433
+      ]
+    }
+  ],
+  "14551": [
+    {
+      "itinerary_id": 204,
+      "curricular_units": [
+        434
+      ]
+    }
+  ],
+  "14552": [
+    {
+      "itinerary_id": 205,
+      "curricular_units": [
+        435
+      ]
+    }
+  ],
+  "14553": [
+    {
+      "itinerary_id": 206,
+      "curricular_units": [
+        436
+      ]
+    }
+  ],
+  "14554": [
+    {
+      "itinerary_id": 207,
+      "curricular_units": [
+        437
+      ]
+    }
+  ],
+  "14555": [
+    {
+      "itinerary_id": 208,
+      "curricular_units": [
+        438
+      ]
+    }
+  ],
+  "14556": [
+    {
+      "itinerary_id": 209,
+      "curricular_units": [
+        439
+      ]
+    }
+  ],
+  "14557": [
+    {
+      "itinerary_id": 210,
+      "curricular_units": [
+        440
+      ]
+    }
+  ],
+  "14558": [
+    {
+      "itinerary_id": 211,
+      "curricular_units": [
+        441
+      ]
+    }
+  ],
+  "14559": [
+    {
+      "itinerary_id": 212,
+      "curricular_units": [
+        442
+      ]
+    }
+  ],
+  "14560": [
+    {
+      "itinerary_id": 213,
+      "curricular_units": [
+        443
+      ]
+    }
+  ],
+  "14561": [
+    {
+      "itinerary_id": 214,
+      "curricular_units": [
+        444
+      ]
+    }
+  ],
+  "14562": [
+    {
+      "itinerary_id": 215,
+      "curricular_units": [
+        445
+      ]
+    }
+  ],
+  "14563": [
+    {
+      "itinerary_id": 216,
+      "curricular_units": [
+        446
+      ]
+    }
+  ],
+  "14564": [
+    {
+      "itinerary_id": 217,
+      "curricular_units": [
+        447
+      ]
+    }
+  ],
+  "14565": [
+    {
+      "itinerary_id": 218,
+      "curricular_units": [
+        448
+      ]
+    }
+  ],
+  "14566": [
+    {
+      "itinerary_id": 219,
+      "curricular_units": [
+        449
+      ]
+    }
+  ],
+  "14567": [
+    {
+      "itinerary_id": 220,
+      "curricular_units": [
+        450
+      ]
+    }
+  ],
+  "14568": [
+    {
+      "itinerary_id": 221,
+      "curricular_units": [
+        451
+      ]
+    }
+  ],
+  "14569": [
+    {
+      "itinerary_id": 222,
+      "curricular_units": [
+        452
+      ]
+    }
+  ],
+  "14570": [
+    {
+      "itinerary_id": 223,
+      "curricular_units": [
+        453
+      ]
+    }
+  ],
+  "14571": [
+    {
+      "itinerary_id": 224,
+      "curricular_units": [
+        454
+      ]
+    }
+  ],
+  "14572": [
+    {
+      "itinerary_id": 225,
+      "curricular_units": [
+        455
+      ]
+    }
+  ],
+  "14573": [
+    {
+      "itinerary_id": 226,
+      "curricular_units": [
+        456
+      ]
+    }
+  ],
+  "14574": [
+    {
+      "itinerary_id": 227,
+      "curricular_units": [
+        457
+      ]
+    }
+  ],
+  "14575": [
+    {
+      "itinerary_id": 228,
+      "curricular_units": [
+        458
+      ]
+    }
+  ],
+  "14576": [
+    {
+      "itinerary_id": 229,
+      "curricular_units": [
+        459
+      ]
+    }
+  ],
+  "14577": [
+    {
+      "itinerary_id": 230,
+      "curricular_units": [
+        460
+      ]
+    }
+  ],
+  "14578": [
+    {
+      "itinerary_id": 231,
+      "curricular_units": [
+        461
+      ]
+    }
+  ],
+  "14579": [
+    {
+      "itinerary_id": 232,
+      "curricular_units": [
+        462
+      ]
+    }
+  ],
+  "14580": [
+    {
+      "itinerary_id": 233,
+      "curricular_units": [
+        463
+      ]
+    }
+  ],
+  "14581": [
+    {
+      "itinerary_id": 234,
+      "curricular_units": [
+        464
+      ]
+    }
+  ],
+  "14582": [
+    {
+      "itinerary_id": 235,
+      "curricular_units": [
+        465
+      ]
+    }
+  ],
+  "14583": [
+    {
+      "itinerary_id": 236,
+      "curricular_units": [
+        466
+      ]
+    }
+  ],
+  "14584": [
+    {
+      "itinerary_id": 237,
+      "curricular_units": [
+        467
+      ]
+    }
+  ],
+  "14585": [
+    {
+      "itinerary_id": 238,
+      "curricular_units": [
+        468
+      ]
+    }
+  ],
+  "14586": [
+    {
+      "itinerary_id": 239,
+      "curricular_units": [
+        469
+      ]
+    }
+  ],
+  "14587": [
+    {
+      "itinerary_id": 240,
+      "curricular_units": [
+        470
+      ]
+    }
+  ],
+  "14588": [
+    {
+      "itinerary_id": 241,
+      "curricular_units": [
+        471
+      ]
+    }
+  ],
+  "14589": [
+    {
+      "itinerary_id": 242,
+      "curricular_units": [
+        472
+      ]
+    }
+  ],
+  "14590": [
+    {
+      "itinerary_id": 243,
+      "curricular_units": [
+        473
+      ]
+    }
+  ],
+  "14591": [
+    {
+      "itinerary_id": 244,
+      "curricular_units": [
+        474
+      ]
+    }
+  ],
+  "14592": [
+    {
+      "itinerary_id": 245,
+      "curricular_units": [
+        475
+      ]
+    }
+  ],
+  "14593": [
+    {
+      "itinerary_id": 246,
+      "curricular_units": [
+        476
+      ]
+    }
+  ],
+  "14594": [
+    {
+      "itinerary_id": 247,
+      "curricular_units": [
+        477
+      ]
+    }
+  ],
+  "14595": [
+    {
+      "itinerary_id": 248,
+      "curricular_units": [
+        478
+      ]
+    }
+  ],
+  "14596": [
+    {
+      "itinerary_id": 249,
+      "curricular_units": [
+        479
+      ]
+    }
+  ],
+  "14597": [
+    {
+      "itinerary_id": 250,
+      "curricular_units": [
+        480
+      ]
+    }
+  ],
+  "14598": [
+    {
+      "itinerary_id": 251,
+      "curricular_units": [
+        481
+      ]
+    }
+  ],
+  "14599": [
+    {
+      "itinerary_id": 252,
+      "curricular_units": [
+        482
+      ]
+    }
+  ],
+  "14600": [
+    {
+      "itinerary_id": 253,
+      "curricular_units": [
+        483
+      ]
+    }
+  ],
+  "14601": [
+    {
+      "itinerary_id": 254,
+      "curricular_units": [
+        484
+      ]
+    }
+  ],
+  "14602": [
+    {
+      "itinerary_id": 255,
+      "curricular_units": [
+        485
+      ]
+    }
+  ],
+  "14603": [
+    {
+      "itinerary_id": 256,
+      "curricular_units": [
+        486
+      ]
+    }
+  ],
+  "14604": [
+    {
+      "itinerary_id": 257,
+      "curricular_units": [
+        487
+      ]
+    }
+  ],
+  "14605": [
+    {
+      "itinerary_id": 258,
+      "curricular_units": [
+        488
+      ]
+    }
+  ],
+  "14606": [
+    {
+      "itinerary_id": 259,
+      "curricular_units": [
+        489
+      ]
+    }
+  ],
+  "14607": [
+    {
+      "itinerary_id": 260,
+      "curricular_units": [
+        490
+      ]
+    }
+  ],
+  "14608": [
+    {
+      "itinerary_id": 261,
+      "curricular_units": [
+        491
+      ]
+    }
+  ],
+  "14609": [
+    {
+      "itinerary_id": 262,
+      "curricular_units": [
+        492
+      ]
+    }
+  ],
+  "14610": [
+    {
+      "itinerary_id": 263,
+      "curricular_units": [
+        493
+      ]
+    }
+  ],
+  "14611": [
+    {
+      "itinerary_id": 264,
+      "curricular_units": [
+        494
+      ]
+    }
+  ],
+  "14612": [
+    {
+      "itinerary_id": 265,
+      "curricular_units": [
+        495
+      ]
+    }
+  ],
+  "14613": [
+    {
+      "itinerary_id": 266,
+      "curricular_units": [
+        496
+      ]
+    }
+  ],
+  "14614": [
+    {
+      "itinerary_id": 267,
+      "curricular_units": [
+        497
+      ]
+    }
+  ],
+  "14615": [
+    {
+      "itinerary_id": 268,
+      "curricular_units": [
+        498
+      ]
+    }
+  ],
+  "14616": [
+    {
+      "itinerary_id": 269,
+      "curricular_units": [
+        499
+      ]
+    }
+  ],
+  "14617": [
+    {
+      "itinerary_id": 270,
+      "curricular_units": [
+        500
+      ]
+    }
+  ],
+  "14618": [
+    {
+      "itinerary_id": 271,
+      "curricular_units": [
+        501
+      ]
+    }
+  ],
+  "14619": [
+    {
+      "itinerary_id": 272,
+      "curricular_units": [
+        502
+      ]
+    }
+  ],
+  "14620": [
+    {
+      "itinerary_id": 273,
+      "curricular_units": [
+        503
+      ]
+    }
+  ],
+  "14621": [
+    {
+      "itinerary_id": 274,
+      "curricular_units": [
+        504
+      ]
+    }
+  ],
+  "14622": [
+    {
+      "itinerary_id": 275,
+      "curricular_units": [
+        505
+      ]
+    }
+  ],
+  "14623": [
+    {
+      "itinerary_id": 276,
+      "curricular_units": [
+        506
+      ]
+    }
+  ],
+  "14624": [
+    {
+      "itinerary_id": 277,
+      "curricular_units": [
+        507
+      ]
+    }
+  ],
+  "14625": [
+    {
+      "itinerary_id": 278,
+      "curricular_units": [
+        508
+      ]
+    }
+  ],
+  "14626": [
+    {
+      "itinerary_id": 279,
+      "curricular_units": [
+        509
+      ]
+    }
+  ],
+  "14627": [
+    {
+      "itinerary_id": 280,
+      "curricular_units": [
+        510
+      ]
+    }
+  ],
+  "14628": [
+    {
+      "itinerary_id": 281,
+      "curricular_units": [
+        511
+      ]
+    }
+  ]
+}
