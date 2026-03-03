@@ -8,7 +8,7 @@ from auth import obter_token
 
 BASE_URL = "https://administrativo.rieh.nees.ufal.br"
 ITINERARIES_URL = f"{BASE_URL}/api/itineraries/"
-OUTPUT_FILE = "escolas_itinerarios_unidades.json"
+OUTPUT_FILE = "json/escolas_itinerarios_unidades.json"
 
 
 ID_SCHOOLS = [

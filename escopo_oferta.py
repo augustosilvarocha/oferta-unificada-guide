@@ -10,10 +10,10 @@ def carregar_json(nome_arquivo):
 
 
 def gerar_ofertas():
-    turma_alunos = carregar_json("turmas_estudantes_ids.json")
-    escolas_docentes = carregar_json("escolas_docentes.json")
-    escolas_itinerarios = carregar_json("escolas_itinerarios.json")
-    escolas_turmas = carregar_json("escolas_turmas_filtrado.json")
+    turma_alunos = carregar_json("json/turmas_estudantes_ids.json")
+    escolas_docentes = carregar_json("json/escolas_docentes.json")
+    escolas_itinerarios = carregar_json("json/escolas_itinerarios.json")
+    escolas_turmas = carregar_json("json/escolas_turmas_filtrado.json")
 
     ofertas = []
     relatorio = {}

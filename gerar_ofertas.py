@@ -12,7 +12,7 @@ SLEEP_BETWEEN = 0.5
 
 
 def carregar_ofertas():
-    with open("ofertas_payload.json", encoding="utf-8") as f:
+    with open("json/ofertas_payload.json", encoding="utf-8") as f:
         return json.load(f)
 
 
